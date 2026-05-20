@@ -1,11 +1,5 @@
 # Jogo da Velha com Programação Concorrente
 
-<!-- ![Jogo da Velha Concorrente](tictactoe.gif) -->
-
-<div align="center">
-  <img src="tictactoe.gif" alt="Erro de execução por falta de sincronização">
-</div>
-
 ## Descrição do Projeto
 
 Neste trabalho prático, você irá resolver o problema de programação concorrente em um jogo da velha (Tic Tac Toe) com dois jogadores controlados pelo computador utilizando programação concorrente em C++.
@@ -78,10 +72,6 @@ Main:
 2. Execute o programa. Duas threads serão iniciadas, uma para cada jogador.
 3. Observe a execução do jogo no console. O tabuleiro será exibido a cada jogada, e o resultado final será mostrado após o término do jogo.
 4. Verifique os erros que ocorrem na execução (veja um exemplo abaixo) e corrija-o usando diretivas de sincronização.
-
-<div align="center">
-  <img src="sem_sincronizacao.png" alt="Erro de execução por falta de sincronização">
-</div>
 
 ## Crédito
 
